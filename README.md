@@ -1,16 +1,14 @@
-## Hi there 👋
+## Oi, eu sou o Pedro Rodrigues
+Seja bem vindo ao meu perfil 😄
 
-<!--
-**Progui2/Progui2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim:
 
-Here are some ideas to get you started:
+Sou um estudante da area de tecnologia a procura do primeiro estagio/emprego, atras de novos conhecimentos e buscando sempre melhorar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Busco um estagio para trabalhar na area de desenvolvimento 
+- 🌱 Estou cursando Ciencias da computação 
+- 📫 Email de contato: pedrorogui02@gmail.com
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Progui2&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Progui2)

@@ -5,7 +5,7 @@ Seja bem vindo ao meu perfil 😄
 
 Sou um estudante da area de tecnologia a procura do primeiro estagio/emprego, atras de novos conhecimentos e buscando sempre melhorar.
 
-- 🔭 Busco um estagio para trabalhar na area de desenvolvimento 
+- 🔭 Busco um estagio para trabalhar na area TI 
 - 🌱 Estou cursando Ciencias da computação 
 - 📫 Email de contato: pedrorogui02@gmail.com
 
